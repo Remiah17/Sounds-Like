@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4336bbef0396cd647adad75f6ff8cb21, type: 3}
+  m_Name: Item 27
+  m_EditorClassIdentifier: 
+  ItemName: Soft Drink Can
+  ItemSound: {fileID: 8300000, guid: 6b53ffb764f98884d9d3f38867119015, type: 3}
+  ItemSprite: {fileID: 21300000, guid: 3e5310b9102b64a4698c5792846ee987, type: 3}
+  PossibleAnswers:
+  - Soft drink can
+  - soft drink can
+  - Soft Drink
+  - Soft drink
+  - soft drink
+  - Soda
+  - soda
+  - Soda can
+  - soda can
+  - Soda
+  PointsToGive: 145

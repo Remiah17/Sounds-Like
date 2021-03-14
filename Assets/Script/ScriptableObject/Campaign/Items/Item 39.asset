@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4336bbef0396cd647adad75f6ff8cb21, type: 3}
+  m_Name: Item 39
+  m_EditorClassIdentifier: 
+  ItemName: Nail Cutter
+  ItemSound: {fileID: 8300000, guid: eef79ea7fb38bb54296c6169455642f0, type: 3}
+  ItemSprite: {fileID: 21300000, guid: 5cbdda955fa22534a89ce16d1fb8591f, type: 3}
+  PossibleAnswers:
+  - Nail cutter
+  - nail cutter
+  - Nail clipper
+  - nail clipper
+  - Nail trimmer
+  - nail trimmer
+  - Nipper
+  - nipper
+  - Nail Clipper
+  - Nail Cutter
+  PointsToGive: 215

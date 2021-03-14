@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4336bbef0396cd647adad75f6ff8cb21, type: 3}
+  m_Name: Item 23
+  m_EditorClassIdentifier: 
+  ItemName: Jet
+  ItemSound: {fileID: 8300000, guid: 63ca6f73735e92d418618d50077a55dc, type: 3}
+  ItemSprite: {fileID: 21300000, guid: f2100a7dd04840f42873f29c11a249e8, type: 3}
+  PossibleAnswers:
+  - Jet
+  - jet
+  - Jet Plane
+  - Jet plane
+  - jet plane
+  - Jet
+  - Jet
+  - Jet
+  - Jet
+  - Jet
+  PointsToGive: 125

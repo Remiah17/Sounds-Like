@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4336bbef0396cd647adad75f6ff8cb21, type: 3}
+  m_Name: Item 21
+  m_EditorClassIdentifier: 
+  ItemName: Mouse Click
+  ItemSound: {fileID: 8300000, guid: 179ce8495aa91234f8957d8c291d670e, type: 3}
+  ItemSprite: {fileID: 21300000, guid: 8ad18f01ce81e1f4299d3fbe7cb0a2ac, type: 3}
+  PossibleAnswers:
+  - Mouse click
+  - Mouse Click
+  - mouse Click
+  - mouse click
+  - Computer mouse
+  - computer Mouse
+  - computer mouse
+  - Computer Mouse
+  - Mouse
+  - mouse
+  PointsToGive: 115

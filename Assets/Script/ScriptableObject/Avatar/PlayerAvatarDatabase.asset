@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a06e8e4c8c8d6a439e5f3495225e901, type: 3}
+  m_Name: PlayerAvatarDatabase
+  m_EditorClassIdentifier: 
+  BodyIDInUse: 1
+  BodySprite:
+  - {fileID: 21300000, guid: 9819bea9f8c85094daea14092ff6de94, type: 3}
+  BodyColorUsed: {r: 1.0884354, g: 0.838704, b: 0.68743277, a: 250}
+  BodyLocked: 00010101010101010101
+  UpperTorsoIDInUse: 1
+  UpperTorsoSprite:
+  - {fileID: 21300000, guid: 554eac67ff3a48e46b14ceecce7c6fa5, type: 3}
+  UpperTorsoColorUsed: {r: 1, g: 1, b: 1, a: 1}
+  UpperTorsoLocked: 00010101010101010101
+  LowerTorsoIDInUse: 1
+  LowerTorsoSprite:
+  - {fileID: 21300000, guid: 3876b1de31816c64d857c7ce1bef0029, type: 3}
+  LowerTorsoColorUsed: {r: 0.25854397, g: 0.52654606, b: 0.6603774, a: 1}
+  LowerTorsoLocked: 00010101010101010101
+  HairIDInUse: 1
+  HairLocked: 00010101010101010101
+  HairSprite:
+  - {fileID: 21300000, guid: abaa720d30a053f41b47c8f6604b2a93, type: 3}
+  HairColor: {r: 0.1509434, g: 0.1324062, b: 0.10751157, a: 1}
+  MouthIDInUse: 2
+  MouthLocked: 00000000010101010101
+  MouthSprite:
+  - {fileID: 21300000, guid: 9ecb36af1bae1ff459b44bbe2c4bb52e, type: 3}
+  - {fileID: 21300000, guid: 93e24be7d32416b4fa05d0baa1005843, type: 3}
+  - {fileID: 21300000, guid: 2cedf6e4b36db9b4a9447d6a690db5ef, type: 3}
+  - {fileID: 21300000, guid: e74b23a67a969b548af84a2b6783962b, type: 3}
+  - {fileID: 21300000, guid: 0e815dc4a1d98014c86edb286a9b1d76, type: 3}
+  - {fileID: 21300000, guid: 87efbd4269c59c3468ef79803d3245f3, type: 3}
+  - {fileID: 21300000, guid: b89340dbedda32143b2cf1393b77b49e, type: 3}
+  - {fileID: 21300000, guid: f3d072c6913b9b14d9c106880d43520c, type: 3}
+  - {fileID: 21300000, guid: 9e0d558f53a07b34e98556b4f78915af, type: 3}
+  - {fileID: 21300000, guid: 2c2ffbf3f53ee4c4ead4a77d96d45872, type: 3}
+  NoseIDInUse: 1
+  NoseLocked: 00000000010101010101
+  NoseSprite:
+  - {fileID: 21300000, guid: c570c4cd8eefb124b9b7b4f7707dc101, type: 3}
+  - {fileID: 21300000, guid: fb1ec80d49a2b9849997e84597d23afd, type: 3}
+  - {fileID: 21300000, guid: 13fc3028866df3d4294bcb90212833f4, type: 3}
+  - {fileID: 21300000, guid: 8d3f3702087de954b9e72dc5aedd956a, type: 3}
+  - {fileID: 21300000, guid: ed839032e9acee94ab8901ca37a78996, type: 3}
+  - {fileID: 21300000, guid: a96f5ecfbcd43ea489ef071f130d85e9, type: 3}
+  - {fileID: 21300000, guid: d9b7dd2a792c0184591c5257acb87b6c, type: 3}
+  - {fileID: 21300000, guid: 0f33de64debbbca448d097d7e7ef733e, type: 3}
+  - {fileID: 21300000, guid: 63c8e41ee3f939d438948ea337785906, type: 3}
+  - {fileID: 21300000, guid: f594e606a4933cf4e80f4420fd1bbf17, type: 3}
+  EyesIDInUse: 1
+  EyesLocked: 00000000010101010101
+  EyeBG:
+  - {fileID: 21300000, guid: 8279bfe9241ff2e4ebc12a391fe7a312, type: 3}
+  - {fileID: 21300000, guid: c95ec20549baed240b51dc8a505afc49, type: 3}
+  - {fileID: 21300000, guid: a8a657803cc91034fa413a9efcb81c6a, type: 3}
+  - {fileID: 21300000, guid: b23eb45f922e59945b9332b4115882c4, type: 3}
+  - {fileID: 21300000, guid: ff08611b098fbe247bc949dd76726033, type: 3}
+  - {fileID: 21300000, guid: 5b48247eb920a734aab205561a43eac2, type: 3}
+  - {fileID: 21300000, guid: c4149549803e70d42b6be061c7b0bb30, type: 3}
+  - {fileID: 21300000, guid: e075856acf83192448207da881756004, type: 3}
+  - {fileID: 21300000, guid: 4b0daed1dc56b704ab4987130678c1d4, type: 3}
+  - {fileID: 21300000, guid: 3ffba3232716a0b45998c7271720a5c5, type: 3}
+  EyeLashes:
+  - {fileID: 21300000, guid: 1d51397f22c583d46bab86e759ef1bee, type: 3}
+  - {fileID: 21300000, guid: d54eec2d78dba1b429ea37580d606e22, type: 3}
+  - {fileID: 21300000, guid: 0309db2374fc7cb44883643eafc7c47e, type: 3}
+  - {fileID: 21300000, guid: abc2da91c51ef9e448c62b936cfc36a9, type: 3}
+  - {fileID: 21300000, guid: 5d685f9113e4f64438d5760858d44448, type: 3}
+  - {fileID: 21300000, guid: 2179c538322c75243a996962a00a2382, type: 3}
+  - {fileID: 21300000, guid: 916c8c9c5dd8be44ca5e8f350ce1badb, type: 3}
+  - {fileID: 21300000, guid: a71284ccaac655744b4fa193f769f34c, type: 3}
+  - {fileID: 21300000, guid: ffd02d801c5826f4c910942f76b03fc3, type: 3}
+  - {fileID: 21300000, guid: b7b15b21635777c42b70183439c6717e, type: 3}
+  PupilShine: {fileID: 21300000, guid: 3ef7b6a8a8a9a4044a0d6dbc5eb27be7, type: 3}
+  Pupil: {fileID: 21300000, guid: e3ac6950c5447aa40bbff82ca110115b, type: 3}
+  PupilColor: {r: 0, g: 0, b: 0, a: 250}
+  EyebrowsInUse: 1
+  EyebrowLocked: 00000000010101010101
+  EyebrowSprite:
+  - {fileID: 21300000, guid: 925dd15d0cb48e04d855125a7abf3edd, type: 3}
+  - {fileID: 21300000, guid: fce89c673ee741746ada2f93322f4e6b, type: 3}
+  - {fileID: 21300000, guid: a3cbff88744586b4ca74672f15cdafef, type: 3}
+  - {fileID: 21300000, guid: a3fe3179169e8bb489a1a4d4358e6714, type: 3}
+  - {fileID: 21300000, guid: 4b8485d1180b7d44b954b3d8300b9037, type: 3}
+  - {fileID: 21300000, guid: 7958d603a4513654d9d91e0f0be55920, type: 3}
+  - {fileID: 21300000, guid: c360a4309effefa43ba10a09ee45ccfd, type: 3}
+  - {fileID: 21300000, guid: 7f1e2835739a13946b5d357130deaffa, type: 3}
+  - {fileID: 21300000, guid: 2b8c28f078058734eb4658893a777d76, type: 3}
+  - {fileID: 21300000, guid: 769be1e0844de874e92a75374f4b423b, type: 3}
+  EyebrowColor: {r: 0.14901961, g: 0.13333334, b: 0.10588236, a: 1}

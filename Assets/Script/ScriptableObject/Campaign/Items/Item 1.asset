@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4336bbef0396cd647adad75f6ff8cb21, type: 3}
+  m_Name: Item 1
+  m_EditorClassIdentifier: 
+  ItemName: Basket Ball
+  ItemSound: {fileID: 8300000, guid: 16299f9bb32717b47afa23cf5dc76ae6, type: 3}
+  ItemSprite: {fileID: 21300000, guid: 58b66262b7c4fc348995bd954ee701ed, type: 3}
+  PossibleAnswers:
+  - Basketball
+  - basketball
+  - Basket ball
+  - basket ball
+  - Basket Ball
+  - basket Ball
+  - ball
+  - ball
+  - Ball
+  - ball
+  PointsToGive: 10

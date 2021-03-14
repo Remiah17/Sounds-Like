@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4336bbef0396cd647adad75f6ff8cb21, type: 3}
+  m_Name: Item 37
+  m_EditorClassIdentifier: 
+  ItemName: Sewing Machine
+  ItemSound: {fileID: 8300000, guid: 65775f612833afb47937f05349e8a469, type: 3}
+  ItemSprite: {fileID: 21300000, guid: 735ff0cab3c983c4d95f4efe0192d7fb, type: 3}
+  PossibleAnswers:
+  - Sewing machine
+  - sewing machine
+  - Stitching machine
+  - stitching machine
+  - Sewing Machine
+  - Sewing machine
+  - Sewing machine
+  - Stitching Machine
+  - Stitching Machine
+  - Stitching Machine
+  PointsToGive: 205

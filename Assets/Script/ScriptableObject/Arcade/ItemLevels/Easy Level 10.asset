@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79fc0580588c34743928c6ec3fd693da, type: 3}
+  m_Name: Easy Level 10
+  m_EditorClassIdentifier: 
+  TargetItem: {fileID: 11400000, guid: fc1ee396f6a7aff4aac7769e291e2540, type: 2}
+  Distractors:
+  - {fileID: 11400000, guid: 37e6a435dab620241960b120a475fb36, type: 2}
+  - {fileID: 11400000, guid: 8bbc65faf8e6f3d44b2dfc795094555d, type: 2}
+  - {fileID: 11400000, guid: de8f0897828b715488154e7872c5d1f3, type: 2}
+  - {fileID: 11400000, guid: 33403f2e9b00bfa4da23cc275faf8411, type: 2}
+  - {fileID: 11400000, guid: 2bed8b740755c98428c32f13b3afe38c, type: 2}
